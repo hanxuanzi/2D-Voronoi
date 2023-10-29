@@ -1,0 +1,1 @@
+E:\learn C++\wo_voronoi\wo_voronoi\x64\Release\wo_voronoi.exe

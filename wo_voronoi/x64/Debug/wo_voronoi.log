@@ -1,0 +1,9 @@
+﻿  main.cpp
+E:\learn C++\wo_voronoi\main.cpp(136,17): warning C4305: “参数”: 从“double”到“float”截断
+E:\learn C++\wo_voronoi\main.cpp(138,17): warning C4305: “参数”: 从“double”到“float”截断
+E:\learn C++\wo_voronoi\main.cpp(139,13): warning C4305: “参数”: 从“double”到“float”截断
+E:\learn C++\wo_voronoi\main.cpp(140,12): warning C4305: “参数”: 从“double”到“float”截断
+E:\learn C++\wo_voronoi\main.cpp(141,18): warning C4305: “参数”: 从“double”到“float”截断
+E:\learn C++\wo_voronoi\main.cpp(271,48): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+E:\learn C++\wo_voronoi\main.cpp(235,26): warning C4101: “EBO”: 未引用的局部变量
+  wo_voronoi.vcxproj -> E:\learn C++\wo_voronoi\wo_voronoi\x64\Debug\wo_voronoi.exe
