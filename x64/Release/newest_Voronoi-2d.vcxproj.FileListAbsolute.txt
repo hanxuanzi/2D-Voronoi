@@ -1,2 +1,0 @@
-E:\learn C++\newest_Voronoi-2d\x64\Release\newest_Voronoi-2d.exe
-E:\desktop\yjs\my_2d_voronoi\newest_Voronoi-2d\x64\Release\newest_Voronoi-2d.exe
